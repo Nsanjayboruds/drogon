@@ -37,7 +37,6 @@ cmake-build-debug-visual-studio/
 .idea/
 html/
 latex/
-.vscode
 *.kdev4
 .cproject
 .project
@@ -49,3 +48,5 @@ trace.json
 .cache/
 build_examples/
 .kiro
+config.bat
+node_modules
